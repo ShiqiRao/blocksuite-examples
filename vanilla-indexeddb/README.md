@@ -7,8 +7,8 @@ Note that here we only save single document in IndexedDB. To persist a doc colle
 ## Development
 
 ```sh
-git clone https://github.com/toeverything/blocksuite.git
-cd blocksuite/examples
+git clone https://github.com/toeverything/blocksuite-examples.git
+cd blocksuite-examples
 
 pnpm install
 pnpm dev vanilla-indexeddb

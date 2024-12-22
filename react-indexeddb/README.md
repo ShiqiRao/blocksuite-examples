@@ -7,8 +7,8 @@ Note that here we persist a doc collection with multiple documents in IndexedDB.
 ## Development
 
 ```sh
-git clone https://github.com/toeverything/blocksuite.git
-cd blocksuite/examples
+git clone https://github.com/toeverything/blocksuite-examples.git
+cd blocksuite-examples
 
 pnpm install
 pnpm dev react-indexeddb

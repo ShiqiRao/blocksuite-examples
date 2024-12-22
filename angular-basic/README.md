@@ -5,8 +5,8 @@ This example encapsulates the BlockSuite editor and doc collection in Angular, d
 ## Development
 
 ```sh
-git clone https://github.com/toeverything/blocksuite.git
-cd blocksuite/examples
+git clone https://github.com/toeverything/blocksuite-examples.git
+cd blocksuite-examples
 
 pnpm install
 pnpm dev angular-basic
