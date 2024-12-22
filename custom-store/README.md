@@ -9,7 +9,11 @@ git clone https://github.com/toeverything/blocksuite.git
 cd blocksuite/examples
 
 pnpm install
+# On Unix-based systems (Linux, macOS)
 pnpm dev custom-store
+
+# On Windows
+.\dev.bat custom-store
 ```
 
 This project is created using the `pnpm create vite` cli.

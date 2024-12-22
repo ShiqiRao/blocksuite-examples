@@ -9,7 +9,11 @@ git clone https://github.com/toeverything/blocksuite.git
 cd blocksuite/examples
 
 pnpm install
+# On Unix-based systems (Linux, macOS)
 pnpm dev react-websocket
+
+# On Windows
+.\dev.bat react-websocket
 ```
 
 Here is how it works:

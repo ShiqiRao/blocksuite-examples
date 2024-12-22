@@ -9,7 +9,11 @@ git clone https://github.com/toeverything/blocksuite.git
 cd blocksuite/examples
 
 pnpm install
+# On Unix-based systems (Linux, macOS)
 pnpm dev angular-basic
+
+# On Windows
+.\dev.bat angular-basic
 ```
 
 This project is created using the `ng` cli.

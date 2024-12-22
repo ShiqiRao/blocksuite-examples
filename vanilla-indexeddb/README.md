@@ -11,7 +11,11 @@ git clone https://github.com/toeverything/blocksuite.git
 cd blocksuite/examples
 
 pnpm install
+# On Unix-based systems (Linux, macOS)
 pnpm dev vanilla-indexeddb
+
+# On Windows
+.\dev.bat vanilla-indexeddb
 ```
 
 This project is created using the `pnpm create vite` cli.
